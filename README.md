@@ -55,8 +55,11 @@ Sentiment-aware strategies can significantly improve profitability and risk cont
 
 ## 📁 Project Structure
 assignment.ipynb
+
 historical_data.csv
+
 fear_greed_index.csv
+
 README.md
 
 
