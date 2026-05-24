@@ -60,6 +60,9 @@ historical_data.csv
 
 fear_greed_index.csv
 
+## ScreenShot 
+<img width="1125" height="628" alt="Screenshot 2026-05-24 155657" src="https://github.com/user-attachments/assets/d699d27a-794a-4d7e-bacf-c5e0ad4732f8" />
+<img width="1138" height="662" alt="Screenshot 2026-05-24 155632" src="https://github.com/user-attachments/assets/8fa38f48-5046-4c1d-9e08-236ead2bb416" />
 README.md
 
 
