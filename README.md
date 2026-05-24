@@ -108,6 +108,9 @@ pip install -r requirements.txt
 Download [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free) to open the `.pbix` file.
  
 ---
+##screenshot of dasboard
+<img width="1138" height="662" alt="Screenshot 2026-05-24 155632" src="https://github.com/user-attachments/assets/4576b082-8bc9-4902-9e31-16b905671e5f" />
+
  
 ## 🧠 Conclusion
  
