@@ -12,7 +12,7 @@
  
 ## 📌 Objective
  
-Understand whether market sentiment — **Fear, Neutral, or Greed** — has a measurable impact on trader PnL, win rate, and trade size. The goal is to extract actionable strategy insights from real trading data.
+Understand whether market sentiment **Fear, Neutral, or Greed** has a measurable impact on trader PnL, win rate, and trade size. The goal is to extract actionable strategy insights from real trading data.
  
 ---
  
