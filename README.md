@@ -42,7 +42,7 @@ Understand whether market sentiment **Fear, Neutral, or Greed** has a measurable
 - 📉 **Fear periods** → higher losses, lower win rate, elevated risk
 - 💰 **Large trades** generate significantly higher returns than small trades
 - ⚖️ **Neutral markets** → stable but moderate performance
-- ⚠️ Losses dominate during Fear sentiment — risk management is critical
+- ⚠️ Losses dominate during Fear sentiment risk management is critical
 ---
  
 ## 🖥️ Power BI Dashboard
